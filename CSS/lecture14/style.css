@@ -1,0 +1,36 @@
+
+p{
+    /* font-style: italic; */
+    font-weight:100;
+    font-size: 150%;
+    /* font-family:fantasy; */
+    font-family: 'Playfair Display', serif;
+    line-height: 40px;
+
+
+}
+
+#p1 {
+    background-color:yellow;
+}
+
+#p2{
+    color: rgb(10, 103, 161);
+    background-color: rgba(192, 220, 108, 0.457);
+}
+
+#p3{
+    background-color:#b574ea;
+}
+
+.centerClass {
+    text-align:center;
+}
+
+article.justify{
+    text-align: justify;
+    background-color: hsla(297, 43%, 18%, 0.354);
+    color:blueviolet;
+    font-size:large;
+    font-weight: 800;
+}
